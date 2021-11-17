@@ -1,0 +1,15 @@
+Assets Used In Travel Site
+icons: https://remixicon.com/
+fonts: https://fonts.google.com/ 
+project repo: https://github.com/bedimcode/responsive-travel-website
+developer repo: https://github.com/bedimcode
+swiper: https://swiperjs.com/
+
+Other Utilities
+color: https://www.w3schools.com/colors/colors_hsl.asp
+
+Images
+https://www.pexels.com/
+https://unsplash.com/
+
+
